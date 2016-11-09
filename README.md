@@ -1,5 +1,12 @@
 # MMath-Dissertation-Equilibria-of-Self-Gravitating-Fluids
 
+Planets may be modelled as fluids, where there is a force balance between the rotation of the body, gravity and internal pressure.
+My dissertation outlines the work made towards this model and the possible shapes that the body may take.
+
+
+
+Abstract:
+
 Using the equations of motion a relation is derived that may be used to find possible configurations
 to the problem of a uniformly rotating homogeneous body that satisfy equilibrium. The
 equilibrium is a force balance between gravitational, centripetal and pressure forces. Configurations
