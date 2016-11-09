@@ -8,6 +8,7 @@ point is determined and consequently a relation for the gravitational potential 
 Using these relations two possible equilibrium configurations are found:
 
 • The Maclaurin spheroids
+
 • The Jacobi ellipsoids
 
 where the Maclaurin spheroids constitute a sequence of oblate spheroids that rotate about
