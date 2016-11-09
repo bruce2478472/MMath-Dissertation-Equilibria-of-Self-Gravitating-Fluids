@@ -3,7 +3,7 @@
 Planets may be modelled as fluids, where there is a force balance between the rotation of the body, gravity and internal pressure.
 My dissertation outlines the work made towards this model and the possible shapes that the body may take.
 
-
+Please see the associated pdf.
 
 Abstract:
 
